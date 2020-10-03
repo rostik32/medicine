@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'PlumbC';
+    src: local('PlumbC'),
+        url('../fonts/PlumbC.woff2') format('woff2'),
+        url('../fonts/PlumbC.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PlumbC';
+    src: local('PlumbMediumC'),
+        url('../fonts/PlumbMediumC.woff2') format('woff2'),
+        url('../fonts/PlumbMediumC.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PlumbC';
+    src: local('PlumbC Bold'), local('PlumbC-Bold'),
+        url('../fonts/PlumbC-Bold.woff2') format('woff2'),
+        url('../fonts/PlumbC-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
